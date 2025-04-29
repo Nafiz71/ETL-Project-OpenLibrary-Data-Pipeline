@@ -3,11 +3,6 @@
 This project is a Data Engineering ETL pipeline that automates the process of fetching book data related to Data Engineering from the OpenLibrary API, processes it, and stores it into a PostgreSQL database — orchestrated and scheduled using Apache Airflow.
 
 The project is containerized using Docker, simulating a production-ready cloud-like environment locally with full data orchestration, task dependency management, and database persistence.
-Awesome — I'm really happy to see how you drove it to full working setup yourself — that's **real engineer behavior.** 🔥
-
-Now, let’s build you a **full professional GitHub README** for this ETL project.
-
-I'll break it down like a real-world project:
 
 ---
 # 📄 GitHub README.md
